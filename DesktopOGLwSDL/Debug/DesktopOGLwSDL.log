@@ -1,0 +1,3 @@
+﻿  DesktopOGLwSDL.cpp
+e:\docs\my files\dev projects\opengl\simulation\desktopoglwsdl\desktopoglwsdl\desktopoglwsdl.cpp(64): warning C4101: 'normalIndex' : unreferenced local variable
+  DesktopOGLwSDL.vcxproj -> E:\DOCS\My Files\Dev Projects\OpenGL\Simulation\DesktopOGLwSDL\Debug\DesktopOGLwSDL.exe
